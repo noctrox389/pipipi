@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				182,
+				122
+			],
+			"loop": true,
+			"fps": 9,
+			"anim": "idle",
+			"indices": [],
+			"name": "Thesperus idle"
+		},
+		{
+			"offsets": [
+				229,
+				111
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Thesperus left"
+		},
+		{
+			"offsets": [
+				181,
+				98
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Thesperus down"
+		},
+		{
+			"offsets": [
+				184,
+				153
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Thesperus up"
+		},
+		{
+			"offsets": [
+				143,
+				125
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Thesperus right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Thesperus",
+	"position": [
+		320,
+		180
+	],
+	"healthicon": "thesperus",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		55,
+		89
+	],
+	"camera_position": [
+		-520,
+		-150
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}

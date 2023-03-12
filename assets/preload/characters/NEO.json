@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				150,
+				172
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "nelson left0"
+		},
+		{
+			"offsets": [
+				161,
+				148
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "nelson down0"
+		},
+		{
+			"offsets": [
+				134,
+				183
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "nelson up0"
+		},
+		{
+			"offsets": [
+				113,
+				165
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "nelson right0"
+		},
+		{
+			"offsets": [
+				130,
+				160
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "nelson dance right"
+		},
+		{
+			"offsets": [
+				130,
+				163
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "nelson dance left"
+		},
+		{
+			"offsets": [
+				161,
+				148
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "forme",
+			"indices": [],
+			"name": "nelson forme"
+		},
+		{
+			"offsets": [
+				161,
+				148
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "foryou",
+			"indices": [],
+			"name": "nelson foryou"
+		},
+		{
+			"offsets": [
+				140,
+				172
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "nelson left-alt"
+		},
+		{
+			"offsets": [
+				123,
+				165
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "nelson right-alt"
+		},
+		{
+			"offsets": [
+				161,
+				148
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "nelson down-alt"
+		},
+		{
+			"offsets": [
+				134,
+				173
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "nelson up-alt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nelson",
+	"position": [
+		-50,
+		240
+	],
+	"healthicon": "neo",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-130,
+		-210
+	],
+	"sing_duration": 4,
+	"scale": 1.33
+}

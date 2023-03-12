@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Ralsei_smile.png" width="565" height="591">
+  <SubTexture name="Ralsei_smile heal0000" x="0" y="0"  width="127" height="168" frameX="-167" frameY="-162" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Ralsei_smile heal0001" x="0" y="168"  width="124" height="167" frameX="-169" frameY="-163" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Ralsei_smile heal0002" x="0" y="335"  width="123" height="167" frameX="-170" frameY="-163" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Ralsei_smile up0000" x="123" y="335"  width="112" height="167" frameX="-185" frameY="-163" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Ralsei_smile up0001" x="124" y="168"  width="110" height="166" frameX="-185" frameY="-164" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Ralsei_smile idle0001" x="234" y="168"  width="119" height="164" frameX="-185" frameY="-165" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Ralsei_smile idle0002" x="127" y="0"  width="119" height="164" frameX="-185" frameY="-165" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Ralsei_smile idle0003" x="246" y="0"  width="118" height="164" frameX="-185" frameY="-165" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Ralsei_smile idle0000" x="364" y="0" width="164" height="115" rotated="true"  frameX="-185" frameY="-165" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Ralsei_smile left0000" x="364" y="115" width="160" height="106" rotated="true"  frameX="-185" frameY="-170" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Ralsei_smile left0001" x="364" y="221" width="159" height="106" rotated="true"  frameX="-185" frameY="-171" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Ralsei_smile right0001" x="353" y="327" width="159" height="106" rotated="true"  frameX="-185" frameY="-171" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Ralsei_smile right0000" x="353" y="433"  width="106" height="158" frameX="-185" frameY="-172" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Ralsei_smile down0001" x="235" y="332"  width="106" height="151" frameX="-185" frameY="-179" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Ralsei_smile down0000" x="459" y="433"  width="106" height="150" frameX="-185" frameY="-180" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Ralsei_smile down0002" x="235" y="332"  width="106" height="151" frameX="-185" frameY="-179" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Ralsei_smile left0002" x="364" y="221" width="159" height="106" rotated="true"  frameX="-185" frameY="-171" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Ralsei_smile right0002" x="353" y="327" width="159" height="106" rotated="true"  frameX="-185" frameY="-171" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Ralsei_smile up0002" x="124" y="168"  width="110" height="166" frameX="-185" frameY="-164" frameWidth="460" frameHeight="460"/>
+</TextureAtlas>

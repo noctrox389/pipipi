@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="goner.png" width="1709" height="1494">
+  <SubTexture name="goner firstDeath0003" x="0" y="0"  width="268" height="395" frameX="-129" frameY="-96" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="goner firstDeath0004" x="0" y="395"  width="290" height="392" frameX="-120" frameY="-83" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="goner deathConfirm0001" x="268" y="0"  width="286" height="358" frameX="-130" frameY="-126" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="goner deathConfirm0002" x="0" y="787"  width="282" height="355" frameX="-132" frameY="-128" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="goner deathConfirm0003" x="0" y="1142"  width="280" height="352" frameX="-133" frameY="-130" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="goner deathConfirm0004" x="280" y="1142"  width="280" height="351" frameX="-133" frameY="-131" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="goner deathConfirm0005" x="282" y="787"  width="280" height="350" frameX="-133" frameY="-132" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="goner deathConfirm0007" x="560" y="1137"  width="280" height="350" frameX="-133" frameY="-132" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="goner deathLoop0000" x="290" y="358"  width="291" height="348" frameX="-117" frameY="-129" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="goner deathLoop0001" x="562" y="0"  width="289" height="348" frameX="-119" frameY="-129" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="goner deathLoop0003" x="562" y="706"  width="286" height="347" frameX="-122" frameY="-130" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="goner deathLoop0006" x="840" y="348"  width="286" height="347" frameX="-122" frameY="-130" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="goner deathLoop0002" x="851" y="0"  width="284" height="347" frameX="-124" frameY="-130" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="goner firstDeath0001" x="581" y="348" width="246" height="230" rotated="true"  frameX="-133" frameY="-230" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="goner deathConfirm0000" x="840" y="1053"  width="272" height="343" frameX="-136" frameY="-134" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="goner firstDeath0000" x="848" y="695" width="292" height="294" rotated="true"  frameX="-96" frameY="-187" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="goner firstDeath0002" x="1126" y="347"  width="266" height="289" frameX="-141" frameY="-192" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="goner firstDeath0008" x="1140" y="0" width="283" height="288" rotated="true"  frameX="-120" frameY="-194" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="goner firstDeath0009" x="1423" y="0"  width="286" height="283" frameX="-122" frameY="-194" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="goner firstDeath0011" x="1423" y="283"  width="286" height="283" frameX="-122" frameY="-194" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="goner firstDeath0006" x="1423" y="566"  width="285" height="283" frameX="-123" frameY="-194" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="goner firstDeath0010" x="1140" y="636" width="283" height="284" rotated="true"  frameX="-124" frameY="-194" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="goner firstDeath0007" x="1423" y="849"  width="283" height="283" frameX="-125" frameY="-194" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="goner firstDeath0005" x="1140" y="920" width="283" height="282" rotated="true"  frameX="-125" frameY="-195" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="goner deathConfirm0006" x="282" y="787"  width="280" height="350" frameX="-133" frameY="-132" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="goner deathConfirm0008" x="560" y="1137"  width="280" height="350" frameX="-133" frameY="-132" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="goner deathLoop0004" x="562" y="706"  width="286" height="347" frameX="-122" frameY="-130" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="goner deathLoop0005" x="562" y="706"  width="286" height="347" frameX="-122" frameY="-130" frameWidth="500" frameHeight="500"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="starwalker.png" width="999" height="1085">
+  <SubTexture name="starwalker up0001" x="0" y="0" width="440" height="261" rotated="true"  frameX="-82" frameY="-17" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="starwalker up0000" x="440" y="0" width="389" height="253" rotated="true"  frameX="-88" frameY="-41" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="starwalker down0001" x="829" y="0" width="148" height="306" rotated="true"  frameX="-75" frameY="-260" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="starwalker idle0000" x="440" y="253" width="345" height="249" rotated="true"  frameX="-112" frameY="-60" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="starwalker down0000" x="785" y="306" width="131" height="324" rotated="true"  frameX="-57" frameY="-277" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="starwalker idle0001" x="0" y="261" width="345" height="247" rotated="true"  frameX="-112" frameY="-61" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="starwalker idle0002" x="345" y="502" width="343" height="248" rotated="true"  frameX="-112" frameY="-62" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="starwalker left0001" x="688" y="630"  width="311" height="307" frameX="-36" frameY="-94" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="starwalker right0000" x="0" y="508"  width="342" height="281" frameX="-123" frameY="-128" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="starwalker right0001" x="342" y="750"  width="331" height="287" frameX="-120" frameY="-122" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="starwalker left0000" x="0" y="789"  width="326" height="296" frameX="-37" frameY="-97" frameWidth="500" frameHeight="500"/>
+</TextureAtlas>

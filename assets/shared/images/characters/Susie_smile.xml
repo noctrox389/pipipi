@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Susie_smile.png" width="894" height="748">
+  <SubTexture name="Susie_smile up-alt0000" x="0" y="0"  width="155" height="285" frameX="-176" frameY="-99" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Susie_smile up0000" x="0" y="285"  width="152" height="284" frameX="-179" frameY="-103" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Susie_smile left0000" x="0" y="569" width="251" height="178" rotated="true"  frameX="-155" frameY="-133" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Susie_smile up-alt0001" x="152" y="285"  width="156" height="279" frameX="-175" frameY="-105" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Susie_smile up0001" x="155" y="0"  width="155" height="279" frameX="-176" frameY="-107" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Susie_smile left0001" x="251" y="564" width="252" height="177" rotated="true"  frameX="-157" frameY="-132" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Susie_smile idle0001" x="308" y="279"  width="169" height="262" frameX="-162" frameY="-122" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Susie_smile idle0002" x="310" y="0"  width="169" height="262" frameX="-162" frameY="-122" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Susie_smile idle0000" x="477" y="262"  width="169" height="261" frameX="-162" frameY="-123" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Susie_smile right0001" x="479" y="0"  width="151" height="259" frameX="-178" frameY="-124" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Susie_smile right0000" x="630" y="0"  width="152" height="258" frameX="-177" frameY="-126" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Susie_smile down0001" x="646" y="258" width="248" height="163" rotated="true"  frameX="-167" frameY="-133" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Susie_smile down0002" x="646" y="421" width="248" height="163" rotated="true"  frameX="-167" frameY="-133" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Susie_smile down0000" x="503" y="584" width="243" height="164" rotated="true"  frameX="-166" frameY="-137" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Susie_smile left0002" x="251" y="564" width="252" height="177" rotated="true"  frameX="-157" frameY="-132" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Susie_smile right0002" x="479" y="0"  width="151" height="259" frameX="-178" frameY="-124" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Susie_smile up0002" x="155" y="0"  width="155" height="279" frameX="-176" frameY="-107" frameWidth="460" frameHeight="460"/>
+</TextureAtlas>

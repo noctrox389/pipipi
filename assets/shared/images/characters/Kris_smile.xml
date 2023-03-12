@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="kris_smile.png" width="1000" height="999">
+  <SubTexture name="Kris_smile up0000" x="0" y="0"  width="141" height="310" frameX="-161" frameY="-50" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Kris_smile up0001" x="0" y="310"  width="138" height="303" frameX="-163" frameY="-57" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Kris_smile up0002" x="0" y="613"  width="138" height="300" frameX="-163" frameY="-60" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Kris_smile right0002" x="138" y="310"  width="165" height="246" frameX="-165" frameY="-102" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Kris_smile right0001" x="141" y="0"  width="162" height="246" frameX="-168" frameY="-102" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Kris_smile right0000" x="138" y="556"  width="155" height="246" frameX="-172" frameY="-103" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Kris_smile down0000" x="138" y="802" width="224" height="168" rotated="true"  frameX="-136" frameY="-126" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Kris_smile left0000" x="293" y="556"  width="207" height="240" frameX="-100" frameY="-109" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Kris_smile left0001" x="362" y="796" width="240" height="203" rotated="true"  frameX="-102" frameY="-108" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Kris_smile left0002" x="602" y="796" width="240" height="203" rotated="true"  frameX="-102" frameY="-108" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Kris_smile idle0003" x="602" y="0" width="232" height="164" rotated="true"  frameX="-140" frameY="-115" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Kris_smile idle0002" x="834" y="0"  width="166" height="231" frameX="-138" frameY="-116" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Kris_smile idle0007" x="303" y="0" width="232" height="164" rotated="true"  frameX="-140" frameY="-115" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Kris_smile idle0006" x="303" y="231"  width="166" height="231" frameX="-138" frameY="-116" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Kris_smile idle0004" x="469" y="231"  width="165" height="230" frameX="-139" frameY="-117" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Kris_smile idle0005" x="634" y="164"  width="166" height="227" frameX="-138" frameY="-120" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Kris_smile idle0001" x="634" y="391"  width="166" height="226" frameX="-138" frameY="-121" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Kris_smile idle0000" x="500" y="617" width="229" height="164" rotated="true"  frameX="-140" frameY="-118" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Kris_smile down0001" x="729" y="617" width="211" height="164" rotated="true"  frameX="-140" frameY="-138" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Kris_smile down0002" x="800" y="231"  width="164" height="211" frameX="-140" frameY="-138" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Kris_smile idle0008" x="303" y="0" width="232" height="164" rotated="true"  frameX="-140" frameY="-115" frameWidth="460" frameHeight="460"/>
+</TextureAtlas>

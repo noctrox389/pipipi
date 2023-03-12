@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				91,
+				58
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "ralsei_neo idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				92,
+				58
+			],
+			"anim": "singLEFT",
+			"fps": 10,
+			"name": "ralsei_neo left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				58
+			],
+			"anim": "singDOWN",
+			"fps": 10,
+			"name": "ralsei_neo down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				58
+			],
+			"anim": "singRIGHT",
+			"fps": 10,
+			"name": "ralsei_neo right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				58
+			],
+			"anim": "singUP",
+			"fps": 10,
+			"name": "ralsei_neo up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				58
+			],
+			"anim": "heal",
+			"fps": 7,
+			"name": "ralsei_neo heal",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ralsei_neo",
+	"position": [
+		150,
+		460
+	],
+	"healthicon": "ralsei-kris",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		175,
+		155
+	],
+	"camera_position": [
+		-490,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1.8
+}

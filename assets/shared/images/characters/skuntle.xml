@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="skuntle.png" width="2056" height="2097">
+  <SubTexture name="skuntle hurt0002" x="0" y="0"  width="415" height="462" frameX="-3" frameY="-6" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle down0000" x="0" y="462" width="268" height="432" rotated="true"  frameX="-42" frameY="-176" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle up0002" x="0" y="894" width="406" height="427" rotated="true"  frameX="-33" frameY="-24" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle up0001" x="268" y="462" width="409" height="426" rotated="true"  frameX="-33" frameY="-22" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle down0001" x="415" y="0" width="273" height="424" rotated="true"  frameX="-41" frameY="-168" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle up0000" x="0" y="1321"  width="410" height="421" frameX="-47" frameY="-11" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle hurt0004" x="0" y="1742"  width="370" height="355" frameX="-3" frameY="-74" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle hurt0006" x="370" y="1742"  width="370" height="355" frameX="-3" frameY="-74" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle oo0000" x="740" y="1742"  width="389" height="353" frameX="-56" frameY="-90" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle oo0002" x="1129" y="1742" width="369" height="347" rotated="true"  frameX="-74" frameY="-75" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle oo0005" x="1498" y="1742" width="369" height="347" rotated="true"  frameX="-74" frameY="-75" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle down0002" x="406" y="888" width="273" height="421" rotated="true"  frameX="-43" frameY="-167" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle hurt0003" x="410" y="1309" width="385" height="418" rotated="true"  frameX="-1" frameY="-94" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle hurt0001" x="679" y="888" width="398" height="413" rotated="true"  frameX="-9" frameY="-32" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle hurt0005" x="795" y="1301" width="335" height="389" rotated="true"  frameX="-1" frameY="-94" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle hurt0007" x="677" y="424" width="335" height="389" rotated="true"  frameX="-1" frameY="-94" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle hurt0000" x="688" y="0"  width="375" height="378" frameX="-25" frameY="-53" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle left0002" x="1012" y="378" width="318" height="378" rotated="true"  frameX="-2" frameY="-113" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle left0001" x="1063" y="0" width="318" height="377" rotated="true"  frameX="-3" frameY="-113" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle left0000" x="1077" y="756" width="325" height="373" rotated="true"  frameX="-6" frameY="-107" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle oo0001" x="1330" y="377"  width="359" height="363" frameX="-69" frameY="-81" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle idle0000" x="1402" y="0" width="320" height="344" rotated="true"  frameX="-90" frameY="-109" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle idle0001" x="1722" y="0" width="324" height="336" rotated="true"  frameX="-92" frameY="-105" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle idle0004" x="1722" y="336" width="334" height="303" rotated="true"  frameX="-109" frameY="-96" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle idle0006" x="1722" y="639" width="334" height="303" rotated="true"  frameX="-109" frameY="-96" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle idle0002" x="1402" y="740"  width="316" height="331" frameX="-102" frameY="-99" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle idle0003" x="1402" y="1071"  width="307" height="333" frameX="-107" frameY="-97" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle right0000" x="1402" y="1404"  width="302" height="286" frameX="-109" frameY="-144" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle right0001" x="1704" y="1404" width="281" height="300" rotated="true"  frameX="-103" frameY="-149" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle right0002" x="1709" y="1071" width="280" height="299" rotated="true"  frameX="-101" frameY="-150" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle idle0005" x="1722" y="336" width="334" height="303" rotated="true"  frameX="-109" frameY="-96" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle oo0003" x="1129" y="1742" width="369" height="347" rotated="true"  frameX="-74" frameY="-75" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle oo0004" x="1129" y="1742" width="369" height="347" rotated="true"  frameX="-74" frameY="-75" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle oo0006" x="1498" y="1742" width="369" height="347" rotated="true"  frameX="-74" frameY="-75" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="skuntle oo0007" x="1498" y="1742" width="369" height="347" rotated="true"  frameX="-74" frameY="-75" frameWidth="500" frameHeight="500"/>
+</TextureAtlas>

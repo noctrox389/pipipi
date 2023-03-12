@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="bef.png" width="1250" height="1483">
+  <SubTexture name="befd up0000" x="0" y="0" width="330" height="276" rotated="true"  frameX="-122" frameY="-158" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="befd up0001" x="330" y="0" width="325" height="277" rotated="true"  frameX="-121" frameY="-163" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="befd up0002" x="0" y="276" width="325" height="277" rotated="true"  frameX="-121" frameY="-163" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="befd idle0000" x="655" y="0"  width="315" height="296" frameX="-82" frameY="-192" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="befd down0001" x="970" y="277" width="271" height="283" rotated="true"  frameX="-106" frameY="-217" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="befd idle0001" x="325" y="277"  width="311" height="296" frameX="-85" frameY="-193" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="befd idle0004" x="0" y="553"  width="310" height="308" frameX="-88" frameY="-179" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="befd idle0005" x="636" y="296"  width="310" height="308" frameX="-88" frameY="-179" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="befd idle0003" x="946" y="560" width="304" height="308" rotated="true"  frameX="-89" frameY="-182" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="befd idle0002" x="310" y="573"  width="310" height="302" frameX="-87" frameY="-184" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="befd right0001" x="0" y="861" width="308" height="303" rotated="true"  frameX="-124" frameY="-178" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="befd right0002" x="620" y="604" width="308" height="303" rotated="true"  frameX="-124" frameY="-178" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="befd right0000" x="308" y="875"  width="307" height="306" frameX="-124" frameY="-180" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="befd left0000" x="0" y="1164" width="305" height="291" rotated="true"  frameX="-66" frameY="-183" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="befd left0001" x="305" y="1181"  width="292" height="302" frameX="-65" frameY="-185" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="befd left0002" x="597" y="1181"  width="292" height="302" frameX="-65" frameY="-185" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="befd down0002" x="615" y="907"  width="283" height="271" frameX="-106" frameY="-217" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="befd down0000" x="889" y="1178" width="267" height="282" rotated="true"  frameX="-105" frameY="-221" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="befd down0003" x="615" y="907"  width="283" height="271" frameX="-106" frameY="-217" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="befd idle0006" x="636" y="296"  width="310" height="308" frameX="-88" frameY="-179" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="befd left0003" x="597" y="1181"  width="292" height="302" frameX="-65" frameY="-185" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="befd right0003" x="620" y="604" width="308" height="303" rotated="true"  frameX="-124" frameY="-178" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="befd up0003" x="0" y="276" width="325" height="277" rotated="true"  frameX="-121" frameY="-163" frameWidth="500" frameHeight="500"/>
+</TextureAtlas>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Seam.png" width="2683" height="2148">
+  <SubTexture name="seam up-alt0000" x="0" y="0"  width="404" height="447" frameX="-32" frameY="-0" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam up0000" x="0" y="447"  width="404" height="447" frameX="-32" frameY="-0" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam up-alt0001" x="0" y="894"  width="412" height="444" frameX="-28" frameY="-3" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam up0001" x="0" y="1338"  width="412" height="444" frameX="-28" frameY="-3" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam left-alt0002" x="0" y="1782" width="410" height="366" rotated="true"  frameX="-55" frameY="-38" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam left0002" x="410" y="1782" width="410" height="366" rotated="true"  frameX="-55" frameY="-38" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam up-alt0002" x="404" y="0"  width="418" height="443" frameX="-25" frameY="-4" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam up0002" x="404" y="443"  width="418" height="443" frameX="-25" frameY="-4" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam right-alt0000" x="412" y="886"  width="384" height="434" frameX="-66" frameY="-13" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam right0000" x="412" y="1320"  width="384" height="434" frameX="-66" frameY="-13" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam right-alt0002" x="796" y="886"  width="380" height="434" frameX="-66" frameY="-13" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam right0002" x="796" y="1320"  width="380" height="434" frameX="-66" frameY="-13" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam down-alt0002" x="820" y="1754" width="362" height="394" rotated="true"  frameX="-50" frameY="-85" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam right-alt0001" x="1176" y="1320"  width="382" height="433" frameX="-66" frameY="-14" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam down0002" x="1182" y="1753" width="362" height="394" rotated="true"  frameX="-50" frameY="-85" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam right0001" x="1544" y="1753" width="433" height="382" rotated="true"  frameX="-66" frameY="-14" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam left-alt0000" x="1977" y="1753" width="405" height="378" rotated="true"  frameX="-44" frameY="-42" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam idle-alt0003" x="822" y="0"  width="339" height="428" frameX="-56" frameY="-19" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam idle0003" x="822" y="428"  width="339" height="428" frameX="-56" frameY="-19" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam idle-alt0002" x="1161" y="0"  width="341" height="427" frameX="-55" frameY="-20" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam idle0002" x="1161" y="427"  width="341" height="427" frameX="-55" frameY="-20" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam idle-alt0001" x="1176" y="854"  width="343" height="425" frameX="-54" frameY="-22" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam idle0001" x="1519" y="854"  width="343" height="425" frameX="-54" frameY="-22" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam idle-alt0000" x="1862" y="854"  width="347" height="415" frameX="-52" frameY="-31" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam idle0000" x="1558" y="1279"  width="347" height="415" frameX="-52" frameY="-31" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam left-alt0001" x="1905" y="1269"  width="369" height="409" frameX="-52" frameY="-39" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam left0001" x="2274" y="1269" width="409" height="369" rotated="true"  frameX="-52" frameY="-39" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam left0000" x="2209" y="0" width="405" height="378" rotated="true"  frameX="-44" frameY="-42" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam down-alt0000" x="1502" y="378" width="358" height="404" rotated="true"  frameX="-45" frameY="-89" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam down-alt0001" x="1502" y="0"  width="398" height="362" frameX="-48" frameY="-85" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam down0000" x="1860" y="378" width="358" height="404" rotated="true"  frameX="-45" frameY="-89" frameWidth="450" frameHeight="450"/>
+  <SubTexture name="seam down0001" x="2218" y="378"  width="398" height="362" frameX="-48" frameY="-85" frameWidth="450" frameHeight="450"/>
+</TextureAtlas>

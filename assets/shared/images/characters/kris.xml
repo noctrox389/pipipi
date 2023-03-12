@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="kris.png" width="1172" height="1984">
+  <SubTexture name="kris up0000" x="0" y="0"  width="348" height="433" frameX="-90" frameY="-27" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris up0001" x="0" y="433"  width="352" height="425" frameX="-88" frameY="-35" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris up0002" x="348" y="0"  width="354" height="418" frameX="-88" frameY="-42" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris right0000" x="0" y="858" width="315" height="395" rotated="true"  frameX="-43" frameY="-145" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris right0001" x="0" y="1253" width="315" height="390" rotated="true"  frameX="-44" frameY="-145" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris down0000" x="0" y="1643" width="306" height="341" rotated="true"  frameX="-32" frameY="-154" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris idle0003" x="306" y="1643"  width="330" height="340" frameX="-46" frameY="-120" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris idle0002" x="636" y="1643"  width="329" height="340" frameX="-44" frameY="-120" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris right0002" x="315" y="858" width="314" height="387" rotated="true"  frameX="-45" frameY="-146" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris left0000" x="315" y="1245" width="336" height="339" rotated="true"  frameX="-11" frameY="-124" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris idle0000" x="352" y="418"  width="329" height="339" frameX="-44" frameY="-121" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris idle0001" x="629" y="757"  width="328" height="339" frameX="-45" frameY="-121" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris left0001" x="681" y="418"  width="336" height="337" frameX="-16" frameY="-123" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris left0002" x="702" y="0"  width="335" height="337" frameX="-19" frameY="-123" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris down0002" x="651" y="1096"  width="261" height="313" frameX="-115" frameY="-147" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris down0001" x="912" y="1096"  width="260" height="309" frameX="-115" frameY="-151" frameWidth="460" frameHeight="460"/>
+</TextureAtlas>

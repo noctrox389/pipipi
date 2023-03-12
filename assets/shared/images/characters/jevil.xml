@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Jevil.png" width="2200" height="2484">
+  <SubTexture name="jevil down-alt0002" x="0" y="0"  width="400" height="321" frameX="-0" frameY="-36" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil down-alt0003" x="400" y="0"  width="400" height="321" frameX="-0" frameY="-36" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil down-alt0001" x="800" y="0"  width="399" height="321" frameX="-1" frameY="-36" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil down-alt0000" x="1199" y="0"  width="397" height="320" frameX="-3" frameY="-37" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil right-alt0000" x="1596" y="0"  width="381" height="332" frameX="-11" frameY="-27" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil down0000" x="1977" y="0" width="223" height="360" rotated="true"  frameX="-38" frameY="-134" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil right-alt0001" x="1199" y="320"  width="376" height="339" frameX="-8" frameY="-22" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil right-alt0003" x="1575" y="332"  width="371" height="344" frameX="-6" frameY="-18" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil dance left0004" x="1946" y="360" width="247" height="227" rotated="true"  frameX="-79" frameY="-141" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil dance right0004" x="1946" y="587" width="247" height="227" rotated="true"  frameX="-94" frameY="-141" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil left-alt0000" x="0" y="321" width="370" height="364" rotated="true"  frameX="-29" frameY="-0" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil right-alt0002" x="370" y="321"  width="370" height="343" frameX="-7" frameY="-19" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil left-alt0001" x="740" y="321" width="368" height="361" rotated="true"  frameX="-37" frameY="-2" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil up-alt0002" x="370" y="664"  width="367" height="336" frameX="-7" frameY="-11" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil up-alt0001" x="0" y="685"  width="366" height="336" frameX="-5" frameY="-9" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil up-alt0000" x="1108" y="659"  width="363" height="338" frameX="-4" frameY="-2" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil oh0000" x="737" y="682"  width="360" height="223" frameX="-38" frameY="-134" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil left-alt0002" x="737" y="905" width="355" height="347" rotated="true"  frameX="-50" frameY="-8" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil down0001" x="366" y="1000"  width="341" height="235" frameX="-48" frameY="-122" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil oh0001" x="0" y="1021"  width="341" height="235" frameX="-48" frameY="-122" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil anything0000" x="341" y="1235" width="338" height="334" rotated="true"  frameX="-33" frameY="-2" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil up0000" x="0" y="1256" width="338" height="334" rotated="true"  frameX="-33" frameY="-2" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil down0002" x="1471" y="676"  width="337" height="241" frameX="-50" frameY="-116" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil oh0002" x="1808" y="814"  width="337" height="241" frameX="-50" frameY="-116" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil anything0001" x="1471" y="917"  width="336" height="330" frameX="-35" frameY="-15" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil up0001" x="1092" y="997"  width="336" height="330" frameX="-35" frameY="-15" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil anything0003" x="1092" y="1327"  width="335" height="303" frameX="-39" frameY="-44" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil anything0004" x="1807" y="1055"  width="335" height="303" frameX="-39" frameY="-44" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil up0002" x="1428" y="1247"  width="335" height="303" frameX="-39" frameY="-44" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil anything0002" x="1428" y="1550"  width="335" height="300" frameX="-39" frameY="-47" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil anything0005" x="679" y="1252"  width="335" height="300" frameX="-39" frameY="-47" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil right0000" x="679" y="1552"  width="317" height="268" frameX="-75" frameY="-91" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil right0001" x="338" y="1569"  width="312" height="272" frameX="-72" frameY="-89" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil dance left0001" x="0" y="1590"  width="307" height="295" frameX="-33" frameY="-67" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil dance right0001" x="996" y="1630"  width="307" height="295" frameX="-60" frameY="-67" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil right0002" x="650" y="1820"  width="306" height="275" frameX="-71" frameY="-87" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil dance left0000" x="307" y="1841"  width="305" height="294" frameX="-31" frameY="-64" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil dance right0000" x="0" y="1885"  width="305" height="294" frameX="-64" frameY="-64" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil left0000" x="0" y="2179"  width="272" height="305" frameX="-29" frameY="-65" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil dance left0002" x="272" y="2179"  width="300" height="304" frameX="-47" frameY="-77" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil dance right0002" x="572" y="2135"  width="300" height="304" frameX="-53" frameY="-77" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil left0001" x="872" y="2135"  width="271" height="302" frameX="-37" frameY="-68" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil left0002" x="1143" y="2135"  width="268" height="292" frameX="-50" frameY="-71" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil laugh0001" x="1303" y="1850"  width="227" height="247" frameX="-94" frameY="-141" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil dance left0003" x="1411" y="2097"  width="238" height="242" frameX="-75" frameY="-145" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil dance right0003" x="1530" y="1850"  width="235" height="240" frameX="-88" frameY="-147" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil laugh0000" x="1649" y="2090"  width="235" height="240" frameX="-88" frameY="-147" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil anything0006" x="679" y="1252"  width="335" height="300" frameX="-39" frameY="-47" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil anything0007" x="679" y="1252"  width="335" height="300" frameX="-39" frameY="-47" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil down0003" x="1471" y="676"  width="337" height="241" frameX="-50" frameY="-116" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil laugh0002" x="1649" y="2090"  width="235" height="240" frameX="-88" frameY="-147" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil laugh0004" x="1649" y="2090"  width="235" height="240" frameX="-88" frameY="-147" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil laugh0003" x="1303" y="1850"  width="227" height="247" frameX="-94" frameY="-141" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil laugh0005" x="1303" y="1850"  width="227" height="247" frameX="-94" frameY="-141" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil left-alt0003" x="737" y="905" width="355" height="347" rotated="true"  frameX="-50" frameY="-8" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil left0003" x="1143" y="2135"  width="268" height="292" frameX="-50" frameY="-71" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil oh0003" x="1808" y="814"  width="337" height="241" frameX="-50" frameY="-116" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil right-alt0004" x="1575" y="332"  width="371" height="344" frameX="-6" frameY="-18" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil right0003" x="650" y="1820"  width="306" height="275" frameX="-71" frameY="-87" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil up-alt0003" x="370" y="664"  width="367" height="336" frameX="-7" frameY="-11" frameWidth="400" frameHeight="400"/>
+  <SubTexture name="jevil up0003" x="1428" y="1247"  width="335" height="303" frameX="-39" frameY="-44" frameWidth="400" frameHeight="400"/>
+</TextureAtlas>

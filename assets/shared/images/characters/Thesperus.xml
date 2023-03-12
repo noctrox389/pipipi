@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Thesperus.png" width="1720" height="1565">
+  <SubTexture name="Thesperus up0000" x="0" y="0"  width="435" height="413" frameX="-1" frameY="-20" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Thesperus up0001" x="435" y="0"  width="433" height="409" frameX="-2" frameY="-24" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Thesperus up0002" x="868" y="0"  width="429" height="406" frameX="-4" frameY="-26" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Thesperus right0000" x="1297" y="0"  width="423" height="392" frameX="-9" frameY="-44" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Thesperus idle0000" x="1297" y="392" width="418" height="276" rotated="true"  frameX="-100" frameY="-25" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Thesperus left0000" x="868" y="406"  width="416" height="405" frameX="-21" frameY="-39" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Thesperus idle0001" x="435" y="409" width="415" height="278" rotated="true"  frameX="-99" frameY="-28" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Thesperus idle0003" x="0" y="413" width="415" height="278" rotated="true"  frameX="-99" frameY="-28" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Thesperus idle0002" x="415" y="687" width="414" height="279" rotated="true"  frameX="-99" frameY="-29" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Thesperus left0002" x="0" y="691"  width="413" height="408" frameX="-19" frameY="-38" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Thesperus left0001" x="1284" y="668"  width="413" height="407" frameX="-20" frameY="-38" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Thesperus right0001" x="829" y="811"  width="405" height="392" frameX="-14" frameY="-42" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Thesperus right0002" x="413" y="966"  width="400" height="392" frameX="-17" frameY="-40" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Thesperus down0002" x="0" y="1099"  width="388" height="370" frameX="-34" frameY="-68" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Thesperus down0001" x="1234" y="1075"  width="387" height="367" frameX="-34" frameY="-69" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="Thesperus down0000" x="813" y="1203"  width="385" height="362" frameX="-35" frameY="-68" frameWidth="460" frameHeight="460"/>
+</TextureAtlas>

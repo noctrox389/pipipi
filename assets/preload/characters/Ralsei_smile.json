@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				150,
+				123
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Ralsei_smile left"
+		},
+		{
+			"offsets": [
+				147,
+				123
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Ralsei_smile down"
+		},
+		{
+			"offsets": [
+				147,
+				123
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Ralsei_smile right"
+		},
+		{
+			"offsets": [
+				146,
+				122
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "Ralsei_smile idle"
+		},
+		{
+			"offsets": [
+				147,
+				122
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Ralsei_smile up"
+		},
+		{
+			"offsets": [
+				147,
+				122
+			],
+			"loop": false,
+			"fps": 7,
+			"anim": "heal",
+			"indices": [],
+			"name": "Ralsei_smile heal"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ralsei_smile",
+	"position": [
+		320,
+		220
+	],
+	"healthicon": "ralsei-kris",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		175,
+		155
+	],
+	"camera_position": [
+		-830,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}

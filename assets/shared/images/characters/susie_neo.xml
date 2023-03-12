@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Susie_neo.png" width="846" height="800">
+  <SubTexture name="susie_neo laugh that is never going to be used lmao0000" x="0" y="0"  width="223" height="224" frameX="-116" frameY="-99" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="susie_neo up0000" x="0" y="224" width="220" height="223" rotated="true"  frameX="-116" frameY="-103" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="susie_neo laugh that is never going to be used lmao0001" x="0" y="447" width="218" height="223" rotated="true"  frameX="-116" frameY="-105" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="susie_neo up0001" x="218" y="447" width="216" height="223" rotated="true"  frameX="-116" frameY="-107" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="susie_neo idle0001" x="220" y="224" width="201" height="223" rotated="true"  frameX="-116" frameY="-122" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="susie_neo idle0002" x="223" y="0" width="201" height="223" rotated="true"  frameX="-116" frameY="-122" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="susie_neo idle0000" x="421" y="223" width="200" height="223" rotated="true"  frameX="-116" frameY="-123" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="susie_neo right0001" x="424" y="0" width="199" height="223" rotated="true"  frameX="-116" frameY="-124" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="susie_neo right0000" x="623" y="0"  width="223" height="197" frameX="-116" frameY="-126" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="susie_neo left0001" x="623" y="197"  width="223" height="191" frameX="-116" frameY="-132" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="susie_neo left0000" x="621" y="388"  width="223" height="189" frameX="-116" frameY="-134" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="susie_neo down0001" x="434" y="446" width="187" height="223" rotated="true"  frameX="-116" frameY="-136" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="susie_neo down0000" x="621" y="577" width="184" height="223" rotated="true"  frameX="-116" frameY="-139" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="susie_neo down0002" x="434" y="446" width="187" height="223" rotated="true"  frameX="-116" frameY="-136" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="susie_neo left0002" x="623" y="197"  width="223" height="191" frameX="-116" frameY="-132" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="susie_neo right0002" x="424" y="0" width="199" height="223" rotated="true"  frameX="-116" frameY="-124" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="susie_neo up0002" x="218" y="447" width="216" height="223" rotated="true"  frameX="-116" frameY="-107" frameWidth="460" frameHeight="460"/>
+</TextureAtlas>

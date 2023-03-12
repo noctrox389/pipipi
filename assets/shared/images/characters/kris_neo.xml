@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="kris_neo.png" width="726" height="987">
+  <SubTexture name="kris_neo up0000" x="0" y="0" width="245" height="201" rotated="true"  frameX="-117" frameY="-99" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris_neo up0001" x="245" y="0" width="230" height="201" rotated="true"  frameX="-117" frameY="-114" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris_neo up0002" x="475" y="0" width="223" height="201" rotated="true"  frameX="-117" frameY="-121" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris_neo right0001" x="0" y="201" width="179" height="219" rotated="true"  frameX="-117" frameY="-165" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris_neo right0002" x="0" y="420" width="179" height="219" rotated="true"  frameX="-117" frameY="-165" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris_neo right0000" x="0" y="639" width="178" height="218" rotated="true"  frameX="-117" frameY="-166" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris_neo idle0004" x="178" y="639" width="174" height="201" rotated="true"  frameX="-117" frameY="-170" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris_neo down0001" x="178" y="840"  width="201" height="147" frameX="-117" frameY="-197" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris_neo idle0001" x="352" y="639" width="173" height="201" rotated="true"  frameX="-117" frameY="-171" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris_neo idle0002" x="525" y="201"  width="201" height="173" frameX="-117" frameY="-171" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris_neo down0000" x="179" y="374" width="172" height="201" rotated="true"  frameX="-117" frameY="-172" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris_neo idle0003" x="179" y="201"  width="201" height="172" frameX="-117" frameY="-172" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris_neo idle0000" x="351" y="373" width="170" height="201" rotated="true"  frameX="-117" frameY="-174" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris_neo left0000" x="521" y="374" width="167" height="201" rotated="true"  frameX="-117" frameY="-177" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris_neo left0001" x="525" y="575"  width="201" height="165" frameX="-117" frameY="-179" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris_neo left0002" x="525" y="740" width="165" height="201" rotated="true"  frameX="-117" frameY="-179" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris_neo down0002" x="178" y="840"  width="201" height="147" frameX="-117" frameY="-197" frameWidth="460" frameHeight="460"/>
+  <SubTexture name="kris_neo idle0005" x="525" y="201"  width="201" height="173" frameX="-117" frameY="-171" frameWidth="460" frameHeight="460"/>
+</TextureAtlas>

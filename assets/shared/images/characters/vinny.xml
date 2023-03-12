@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Vinny.png" width="1691" height="1700">
+  <SubTexture name="vinny up0000" x="0" y="0"  width="283" height="471" frameX="-81" frameY="-3" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="vinny up0001" x="0" y="471"  width="284" height="466" frameX="-81" frameY="-8" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="vinny up0002" x="283" y="0"  width="289" height="461" frameX="-78" frameY="-12" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="vinny right0000" x="0" y="937" width="343" height="416" rotated="true"  frameX="-76" frameY="-129" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="vinny down0001" x="0" y="1353" width="316" height="347" rotated="true"  frameX="-72" frameY="-158" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="vinny down0000" x="316" y="1353" width="309" height="347" rotated="true"  frameX="-69" frameY="-165" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="vinny idle0002" x="625" y="1353" width="395" height="346" rotated="true"  frameX="-75" frameY="-78" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="vinny down0002" x="1020" y="1353" width="320" height="343" rotated="true"  frameX="-76" frameY="-155" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="vinny right0002" x="1340" y="0" width="351" height="415" rotated="true"  frameX="-67" frameY="-121" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="vinny left0002" x="1340" y="415"  width="351" height="408" frameX="-68" frameY="-66" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="vinny left0000" x="1340" y="823"  width="350" height="400" frameX="-55" frameY="-73" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="vinny left0001" x="1340" y="1223"  width="349" height="405" frameX="-63" frameY="-68" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="vinny right0001" x="284" y="461" width="348" height="415" rotated="true"  frameX="-70" frameY="-124" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="vinny idle0005" x="572" y="0"  width="337" height="404" frameX="-76" frameY="-69" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="vinny idle0004" x="909" y="0" width="402" height="340" rotated="true"  frameX="-76" frameY="-71" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="vinny idle0000" x="909" y="340" width="401" height="338" rotated="true"  frameX="-75" frameY="-71" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="vinny idle0003" x="909" y="678" width="399" height="341" rotated="true"  frameX="-76" frameY="-74" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="vinny idle0001" x="343" y="876"  width="348" height="386" frameX="-75" frameY="-86" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="vinny idle0006" x="572" y="0"  width="337" height="404" frameX="-76" frameY="-69" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="vinny idle0007" x="572" y="0"  width="337" height="404" frameX="-76" frameY="-69" frameWidth="500" frameHeight="500"/>
+  <SubTexture name="vinny idle0008" x="572" y="0"  width="337" height="404" frameX="-76" frameY="-69" frameWidth="500" frameHeight="500"/>
+</TextureAtlas>
